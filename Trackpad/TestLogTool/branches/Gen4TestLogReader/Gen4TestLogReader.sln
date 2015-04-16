@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gen4TestLogReader", "Gen4TestLogReader\Gen4TestLogReader.csproj", "{449C2A2E-2527-4292-8FE8-04228D243A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449C2A2E-2527-4292-8FE8-04228D243A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449C2A2E-2527-4292-8FE8-04228D243A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449C2A2E-2527-4292-8FE8-04228D243A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449C2A2E-2527-4292-8FE8-04228D243A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

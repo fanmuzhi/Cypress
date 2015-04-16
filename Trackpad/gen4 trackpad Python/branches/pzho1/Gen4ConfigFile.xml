@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<TestItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SensorRows>22</SensorRows>
+  <SensorColumns>22</SensorColumns>
+  <XSignalType>Columns</XSignalType>
+  <DeviceIDLength>19</DeviceIDLength>
+  <IOProtocol>I2C</IOProtocol>
+  <I2CAdress>36</I2CAdress>
+  <I2CPins>17,19</I2CPins>
+  <ProgrammingMode>Power</ProgrammingMode>
+  <BootloaderAddress>36</BootloaderAddress>
+  <SPIMode>0</SPIMode>
+  <SPIBitOrder>MSB</SPIBitOrder>
+  <testItemDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>VCOM</Test>
+      <Min>2.8</Min>
+      <Max>3.8</Max>
+      <Samples>5</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>VoltageTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>ICOM</Test>
+      <Min>0.1</Min>
+      <Max>10</Max>
+      <Samples>50</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>CurrentTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Update DUT</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other />
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Interrupt Pin</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other />
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>FW Version</Test>
+      <Min>1.1</Min>
+      <Max>1.1</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>FWTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>FW Revision</Test>
+      <Min>511393</Min>
+      <Max>511393</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>FWTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Shorts</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>ShortsTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Opens</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>OpenTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Global IDAC</Test>
+      <Min>1</Min>
+      <Max>200</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>IDACTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Local IDAC</Test>
+      <Min>3</Min>
+      <Max>28</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>IDACTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Noise</Test>
+      <Min>0</Min>
+      <Max>10</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>NoiseTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Raw Data</Test>
+      <Min>-45</Min>
+      <Max>20</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>RawDataTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Baseline</Test>
+      <Min>-3</Min>
+      <Max>5</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>BaselineTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Self-cap Noise</Test>
+      <Min>0</Min>
+      <Max>10</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>SelfNoiseTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Self-cap Raw Data</Test>
+      <Min>-30</Min>
+      <Max>60</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>SelfRawDataTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Self-cap Baseline</Test>
+      <Min>-3</Min>
+      <Max>5</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>SelfBaselineTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Self-cap Signal</Test>
+      <Min>-5</Min>
+      <Max>5</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>SelfSignalTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Self-cap Signal2</Test>
+      <Min>-5</Min>
+      <Max>5</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other> </Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Signal</Test>
+      <Min>-5</Min>
+      <Max>5</Max>
+      <Samples>10</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>SignalTest.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Button Sense</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other />
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Line Draw</Test>
+      <Min>0</Min>
+      <Max>50</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other />
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Free Draw</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other />
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Record Test Status</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>1</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>UpdateRegister.py</Other>
+    </testDefinition>
+    <testDefinition>
+      <Selected>true</Selected>
+      <Test>Program Image</Test>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Samples>0</Samples>
+      <Stop>false</Stop>
+      <Log>true</Log>
+      <Other>ProgramGen4.py</Other>
+    </testDefinition>
+  </testItemDefinition>
+</TestItem>

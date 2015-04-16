@@ -1,0 +1,5 @@
+currWell
+wellNumberA
+wellNumberB
+
+hardwareconfig U2751A1 U2751A2

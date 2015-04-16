@@ -1,0 +1,10 @@
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Agilent.dll
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Agilent.pdb
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CypressSemiconductor.ChinaManufacturingTest.VoltageSet.FormCh1Voltage.resources
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Agilent power control.csproj.GenerateResource.Cache
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

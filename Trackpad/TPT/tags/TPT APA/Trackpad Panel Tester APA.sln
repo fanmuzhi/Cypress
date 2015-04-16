@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trackpad Panel Tester APA", "Trackpad Panel Tester APA\Trackpad Panel Tester APA.csproj", "{D2C8CC6D-0323-448D-9728-8F4A5799E99C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Trackpad Panel Tester APA Setup", "Trackpad Panel Tester APA Setup\Trackpad Panel Tester APA Setup.vdproj", "{6C93C47D-C503-489D-BEE3-10D81E812DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C8CC6D-0323-448D-9728-8F4A5799E99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C8CC6D-0323-448D-9728-8F4A5799E99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C8CC6D-0323-448D-9728-8F4A5799E99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C8CC6D-0323-448D-9728-8F4A5799E99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C93C47D-C503-489D-BEE3-10D81E812DAD}.Debug|Any CPU.ActiveCfg = Debug
+		{6C93C47D-C503-489D-BEE3-10D81E812DAD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

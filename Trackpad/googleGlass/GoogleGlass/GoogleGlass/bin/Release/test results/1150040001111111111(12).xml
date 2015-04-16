@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!--XML Test Report Of Trackpad-->
+<Trackpad>
+    <Serial_Number>1150040001111111111</Serial_Number>
+    <Test_Station>ALS</Test_Station>
+    <Error_Code>36 </Error_Code>
+    <Test_Time>2014-11-28 14:06:20Z</Test_Time>
+    <ALS_light_Value>55317</ALS_light_Value>
+    <LED_Value>-0.0007324218752</LED_Value>
+    <Res_Value>0</Res_Value>
+</Trackpad>

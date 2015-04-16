@@ -1,0 +1,10 @@
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\MPQ\bin\Release\MPQ.dll
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\MPQ\bin\Release\MPQ.pdb
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\MPQ\obj\Release\ResolveAssemblyReference.cache
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\MPQ\obj\Release\MPQ.dll
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\MPQ\obj\Release\MPQ.pdb
+D:\Source\Common\MPQ\bin\Release\MPQ.dll
+D:\Source\Common\MPQ\bin\Release\MPQ.pdb
+D:\Source\Common\MPQ\obj\Release\MPQ.csprojResolveAssemblyReference.cache
+D:\Source\Common\MPQ\obj\Release\MPQ.dll
+D:\Source\Common\MPQ\obj\Release\MPQ.pdb

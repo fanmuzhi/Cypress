@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agilent power control", "WindowsFormsApplication3\Agilent power control.csproj", "{81DDB8A4-5EA1-4895-9604-2515F4BF958B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{6E916F7D-22A9-4B6F-91DE-CEC2E19CB437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81DDB8A4-5EA1-4895-9604-2515F4BF958B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{81DDB8A4-5EA1-4895-9604-2515F4BF958B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{81DDB8A4-5EA1-4895-9604-2515F4BF958B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DDB8A4-5EA1-4895-9604-2515F4BF958B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E916F7D-22A9-4B6F-91DE-CEC2E19CB437}.Debug|Any CPU.ActiveCfg = Debug
+		{6E916F7D-22A9-4B6F-91DE-CEC2E19CB437}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

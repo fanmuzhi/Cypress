@@ -1,0 +1,23 @@
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Agilent.dll
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Agilent.pdb
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\CypressSemiconductor.ChinaManufacturingTest.VoltageSet.FormCh1Voltage.resources
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Agilent power control.csproj.GenerateResource.Cache
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\AgilentPowerOutput.exe
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\AgilentPowerOutput.pdb
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.exe
+C:\Users\pzho\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.pdb
+E:\sourceCode\Agilent Power\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.exe
+E:\sourceCode\Agilent Power\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.pdb
+D:\Source Code\Agilent Power\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.exe
+D:\Source Code\Agilent Power\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.pdb
+D:\Source Code\Agilent Power\WindowsFormsApplication3\bin\Release\AgilentPowerOutput.exe
+D:\Source Code\Agilent Power\WindowsFormsApplication3\bin\Release\AgilentPowerOutput.pdb
+D:\Source Code\Agilent Power\WindowsFormsApplication3\bin\Release\Agilent.pdb
+D:\Source Code\Agilent Power\WindowsFormsApplication3\obj\Release\Agilent power control.csprojResolveAssemblyReference.cache
+D:\Source Code\Agilent Power\WindowsFormsApplication3\obj\Release\CypressSemiconductor.ChinaManufacturingTest.VoltageSet.FormCh1Voltage.resources
+D:\Source Code\Agilent Power\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+D:\Source Code\Agilent Power\WindowsFormsApplication3\obj\Release\Agilent power control.csproj.GenerateResource.Cache
+D:\Git\Trackpad\Agilent Power\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.exe
+D:\Git\Trackpad\Agilent Power\WindowsFormsApplication3\obj\Release\AgilentPowerOutput.pdb

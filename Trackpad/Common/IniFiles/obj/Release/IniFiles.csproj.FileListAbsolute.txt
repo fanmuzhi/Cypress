@@ -1,0 +1,5 @@
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\IniFiles\bin\Release\IniFiles.dll
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\IniFiles\bin\Release\IniFiles.pdb
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\IniFiles\obj\Release\ResolveAssemblyReference.cache
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\IniFiles\obj\Release\IniFiles.dll
+C:\Users\qibo.SHANGHAI\Perforce\qibo_QIBO-Labtop\apps\psoc\Trackpad\tools\Manufacturing Test\Test Software\Common\IniFiles\obj\Release\IniFiles.pdb
