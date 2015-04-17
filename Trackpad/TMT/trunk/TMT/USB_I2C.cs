@@ -153,6 +153,33 @@ namespace CypressSemiconductor.ChinaManufacturingTest.TrackpadModuleTester
             return data;
         }
 
+        public byte[] ReadWrite2(byte command, byte nToRead, int delay_time_ms)
+        {
+            byte repeat = 0;
+            bool success = false;
+            byte[] data;
+            object dataIn;
+            do
+            {
+                pp.I2C_SendData(deviceAddress, new byte[] { command }, out lastError);
+                System.Threading.Thread.Sleep(delay_time_ms * (repeat + 1));
+                pp.I2C_ReadData(deviceAddress, nToRead, out dataIn, out lastError);
+                data = dataIn as byte[];
+                if (data[0] == command)
+                { success = true; }
+
+                repeat++;
+
+            } while (!success && repeat < 5);
+
+            if (!success)
+            {
+                Log.error("Fail to excute command: " + command.ToString());
+            }
+
+            return data;
+        }
+
         public byte[] ReadWrite(byte command, byte parameter, byte nToRead, int delay_time_ms)
         {
             byte repeat = 0;

@@ -616,7 +616,7 @@ namespace CypressSemiconductor.ChinaManufacturingTest.TrackpadModuleTester
                 bridge.Write(commands);
                 System.Threading.Thread.Sleep(DelayTime.I2C_Enter_TestMode);
             }
-            else if (dut.SerailNumber.Substring(0, 4) == "0120" || dut.SerailNumber.Substring(0, 8) == "11300200")
+            else if (dut.SerailNumber.Substring(0, 4) == "0120" || dut.SerailNumber.Substring(0, 8) == "11300200" || dut.SerailNumber.Substring(0, 8) == "02300100")
             {
                 byte[] commands = new byte[3] { 0x47, 0x0A, 0x0F };
                 bridge.Write(commands);
@@ -823,6 +823,7 @@ namespace CypressSemiconductor.ChinaManufacturingTest.TrackpadModuleTester
 
         public void ReadPosition()
         {
+            //APA
             readPositionStop = true;
             byte[] datain = bridge.ReadWrite(TestCommand.Read_Postion_XY, Convert.ToByte(10), DelayTime.I2C_MS);
             fingerX = datain[4] + datain[3] * 256;
@@ -830,6 +831,16 @@ namespace CypressSemiconductor.ChinaManufacturingTest.TrackpadModuleTester
 
             byte[] datain2 = bridge.ReadWrite(TestCommand.Read_Tactile_Switch, Convert.ToByte(5), DelayTime.I2C_MS);
             dut.LeftButtonStatus = datain2[3];
+
+            
+            ////MTG
+            //readPositionStop = true;
+            //byte[] datain = bridge.ReadWrite(0x14, Convert.ToByte(20), DelayTime.I2C_MS);
+            //fingerX = datain[4]&0x0F + datain[2] * 256;
+            //fingerY = ((datain[4]&0xF0) >> 4) + datain[3] * 256;
+
+            //byte[] datain2 = bridge.ReadWrite(TestCommand.Read_Tactile_Switch, Convert.ToByte(5), DelayTime.I2C_MS);
+            //dut.LeftButtonStatus = datain2[3];
         }
 
 
